@@ -1,8 +1,10 @@
-# Test File/n/n![License](https://img.shields.io/badge/License-MIT-blue)
+# Professional README Generator
+
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
 
-This is a test file to see if the code works
+A professional readme generator for web development projects.
 
 ## Table of Contents
 
@@ -14,11 +16,11 @@ This is a test file to see if the code works
 - [Questions](#questions)
 ## Installation
 
-I need to change this to say enter the installation instructions for your project.
+In order to use inquirer will need to be installed and the application must be run in the command line.
 
 ## Usage
 
-maybe change this to usage instructions as well
+The user will be prompted with questions about their web development project. After submitting the answers a professional readme will be written to the current folder.
 
 ## License
 
@@ -26,7 +28,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-This looks fine
+n/a
 
 ## Tests
 
