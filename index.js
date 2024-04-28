@@ -69,7 +69,7 @@ inquirer
     `## License\n\nThis project is licensed under the ${license} license.\n\n` + 
     `## Contributing\n\n${contributing}\n\n` + 
     `## Tests\n\n${tests}\n\n` + 
-    `## Questions\n\n${github}\n${email}`;
+    `## Questions\n\nGitHub username: ${github}\nEmail: ${email}`;
 
     fs.writeFile('README.md', readmeContent, (err) => {
         if (err) {

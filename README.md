@@ -37,5 +37,5 @@ n/a
 
 ## Questions
 
-bschwendiman90
+https://github.com/bschwendiman90
 bschwendiman90@gmail.com
